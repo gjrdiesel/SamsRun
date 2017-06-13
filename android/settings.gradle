@@ -1,0 +1,3 @@
+rootProject.name = 'samsrun'
+
+include ':app'
